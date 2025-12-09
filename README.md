@@ -31,8 +31,6 @@ The model was trained on the **ISOT Fake News Dataset** (or similar Kaggle datas
 The model achieved an accuracy of **~99%** on the test set.
 
 **Confusion Matrix:**
-*(Upload your screenshot here, e.g., ![Confusion Matrix](![Uploading Screenshot 2025-12-09 210745.png…]()
-))*
 
 ## 💻 How to Run
 1.  **Clone the repository:**
